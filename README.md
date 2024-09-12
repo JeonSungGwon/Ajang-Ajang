@@ -50,32 +50,32 @@
 
 ## 기능 소개
 
-### 1.로그인 화면
+### 1. 로그인 화면
 <img src="https://github.com/user-attachments/assets/389d7548-ba77-43ed-b82b-132b09dd5c75" width="200" height="400"/>
 
-### 2.거래 리스트
+### 2. 거래 리스트
 <img src="https://github.com/user-attachments/assets/9d2b178a-2606-4162-9c24-cb3d93906f84" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/fca29090-27f3-4d85-897b-4b87a64316bb" width="200" height="400"/>
 
-### 3.글 작성 및 생성형 AI를 활용한 템플릿 서비스
+### 3. 글 작성 및 생성형 AI를 활용한 템플릿 서비스
 <img src="https://github.com/user-attachments/assets/01074a34-8fc8-4331-82b4-def8ac3af61a" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/eca6f7a7-61bc-4c71-8bda-254eff1aebc7" width="200" height="400"/>
 
 
-### 4.검색 및 조회
+### 4. 검색 및 조회
 ![image](https://github.com/user-attachments/assets/bac10926-87c6-499d-926b-6d63fbc0905b)
 ![image](https://github.com/user-attachments/assets/82754622-b05b-4269-a9f4-f7d403ba771b)
 ![image](https://github.com/user-attachments/assets/e55b6f86-cfff-4777-a1ad-b7094ebe0bad)
 
-### 5.업로드 이미지 배경 제거  
+### 5. 업로드 이미지 배경 제거  
 ![image](https://github.com/user-attachments/assets/1e4fd2ea-56f5-4366-8447-1fe53c8c1cf1)
 ![image](https://github.com/user-attachments/assets/26464de8-df6f-459e-b55f-c53c765daa2f)
 
-### 6.추천장소 및 길찾기(공공장소 데이터 기반)
+### 6. 추천장소 및 길찾기(공공장소 데이터 기반)
 ![image](https://github.com/user-attachments/assets/7a222d76-5b1c-4f13-aa73-5a87150eb205)
 ![image](https://github.com/user-attachments/assets/b99f1f5e-1b0c-42d2-a4b7-1801bb30ea65)
 
-### 7.ELK 스택을 통한 로그 시각화
+### 7. ELK 스택을 통한 로그 시각화
 ![image](https://github.com/user-attachments/assets/c313e277-e999-4036-ac3e-1455c8ae1184)
 
 
